@@ -11,6 +11,10 @@ aura-backbone-todomvc-boilerplate
 
 Run `npm install`. This will automatically install bower components as well. If you do not have bower installed globally, you may see an error and need to also run `bower install`.
 
+Run `grunt server`. This will start the express server and launch a page in the default browser that connects to the TodoMVC app.
+
+Note that if you experience `EMFILE, too many open files` errors, you are liking running on OSX and need to increase your ulimit: `ulimit -n 10240`
+
 ## Features
 
 This boilerplate configures the following:
