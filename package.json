@@ -1,0 +1,56 @@
+{
+  "name": "aura-backbone-todomvc-boilerplate",
+  "description": "Aura boilerplate to quickly start an aura-based backbone project",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tauren Mills"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sportzing/aura-backbone-todomvc-boilerplate.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "undefined/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": "0.10.13"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.x",
+    "chai": "~1.5.x",
+    "sinon": "~1.5.x",
+    "sinon-chai": "~2.3.x",
+    "grunt": "~0.4.x",
+    "express": "~3.4.x",
+    "grunt-contrib-handlebars": "~0.5.x",
+    "grunt-contrib-compass": "0.1.x",
+    "grunt-contrib-copy": "~0.4.x",
+    "grunt-contrib-concat": "~0.3.x",
+    "grunt-contrib-uglify": "~0.2.x",
+    "grunt-contrib-jshint": "~0.6.x",
+    "grunt-contrib-cssmin": "~0.6.x",
+    "grunt-contrib-connect": "~0.5.x",
+    "grunt-express": "~1.0.x",
+    "grunt-contrib-clean": "~0.4.x",
+    "grunt-contrib-htmlmin": "~0.1.x",
+    "grunt-contrib-imagemin": "~0.1.x",
+    "grunt-contrib-watch": "~0.5.x",
+    "grunt-bower-hooks": "~0.3.x",
+    "grunt-contrib-requirejs": "~0.4.x",
+    "grunt-usemin": "~0.1.x",
+    "grunt-open": "~0.2.x",
+    "grunt-mocha": "~0.4.x",
+    "matchdep": "~0.1.x"
+  },
+  "keywords": [
+    "aurajs",
+    "boilerplate",
+    "backbone"
+  ],
+  "scripts": {
+    "install": "`npm -g bin`/bower install"
+  }
+}

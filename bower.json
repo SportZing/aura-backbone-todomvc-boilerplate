@@ -1,0 +1,17 @@
+{
+  "name": "aura-boilerplate",
+  "version": "0.1.0",
+  "dependencies": {
+    "aura": "~0.9.1",
+    "jquery": "~1.10.x",
+    "backbone.localStorage": "~1.1.6",
+    "backbone": "~1.0.0",
+    "lodash": "~2.0.0",
+    "require-handlebars-plugin": "~0.4.0",
+    "chai": "~1.7.2",
+    "sinon-chai": "~2.4.0",
+    "mocha": "~1.12.1",
+    "sinon": "~1.7.3",
+    "ratchet": "~1.0.2"
+  }
+}
