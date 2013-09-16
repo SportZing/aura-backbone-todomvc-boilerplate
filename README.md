@@ -17,10 +17,12 @@ This boilerplate configures the following:
 
 * AuraJS project
 * Backbone TodoMVC project
-* Grunt-based configuration and build scripts
+* Grunt-based build scripts
 * Express servers for development and testing
 * Live reload features
 * Mocha test runner
+* Bower support
+* Compass/SASS support
 
 ## Background
 
