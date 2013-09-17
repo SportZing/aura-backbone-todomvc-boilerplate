@@ -153,7 +153,7 @@ module.exports = function (grunt) {
       dist: {
         files: {
           'dist/css/application.css': [
-            // 'app/styles/*.css'
+            // 'app/styles/*.css'      // proper order may not be preserved
             'app/styles/global.css',
             'app/styles/button.css',
             'app/styles/todoapp.css'

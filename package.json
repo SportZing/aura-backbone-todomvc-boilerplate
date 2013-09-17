@@ -3,7 +3,8 @@
   "description": "Aura boilerplate to quickly start an aura-based backbone project",
   "version": "0.1.0",
   "author": {
-    "name": "Tauren Mills"
+    "name": "Tauren Mills",
+    "email": "tauren@tauren.com"
   },
   "repository": {
     "type": "git",

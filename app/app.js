@@ -8,6 +8,6 @@ require(['bower_components/aura/lib/aura'], function(Aura) {
       window.Todos = app.sandboxes.create();
     })
     .start({ components: 'body' }).then(function() {
-      console.warn('SportZing started...');
+      console.warn('Aura started...');
     });
 });
